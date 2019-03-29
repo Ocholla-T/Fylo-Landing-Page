@@ -1,0 +1,101 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.nav-item {
+  color: gray;
+  margin-right: 1.75rem;
+}
+
+.header {
+  margin: 2% 3% 7%;
+}
+
+.header-text {
+  margin-top: 5%
+}
+
+.illustration-1, .illustration-2 {
+  max-height: 100%;
+  max-width: 100%
+}
+
+.call-for-productivity-text {
+  margin: 2% 3% 7%;
+}
+
+.call-for-productivity-link {
+  color: #45b7b7;
+  border-bottom: 2px solid;
+  padding-bottom: 3px;
+
+}
+
+.call-for-productivity-information {
+    background-color:#F8F8FE;
+}
+
+.bg-curve-desktop {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.testimonial {
+  background-color: #fff;
+  position: relative;
+  bottom: 8rem;
+  margin-left: 4%;
+  padding: 3%;
+  box-shadow: 5px 5px 5px #e7eaf6;
+}
+
+.avatar-testimonial {
+  border-radius: 100%;
+  width: 17%;
+  height: auto;
+  float: left;
+  margin-right: 1.5rem;
+}
+
+.testimonial-name {
+  font-weight: bold;
+}
+
+.avatar-testimonial-text{
+  line-height: .5;
+  margin-top: 2rem;
+}
+
+/* call to action */
+.call-to-action {
+  background-color: hsl(238, 22%, 44%);
+  color: #fff;
+  padding: 7% 3% 7%;
+}
+
+.call-to-action-text {
+  padding-right: 3rem;
+}
+/* contact us */
+footer {
+  background-color: hsl(243, 87%, 12%);
+  color: #fff;
+  padding: 5% 5% 7% ;
+  line-height: 2;
+}
+.contact-icon {
+  padding-right: .5rem;
+}
+.fylo-logo {
+  margin-bottom: 1.5rem;
+  filter: invert(100%) sepia(7%) saturate(4931%) hue-rotate(279deg) brightness(111%) contrast(105%);
+}
+.social-media-icons {
+  margin-right: 1rem;
+}
